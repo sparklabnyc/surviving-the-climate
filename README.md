@@ -1,5 +1,9 @@
 # Surviving the Climate
 
+<p align="center">
+  <img src="logo.png" alt="Surviving the Climate" width="600">
+</p>
+
 Official website repository for **Surviving the Climate**.
 
 🌐 Live site:
