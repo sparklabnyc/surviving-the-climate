@@ -22,7 +22,8 @@ This repository hosts the static website deployed via **GitHub Pages** and serve
 ```
 .
 ├── index.html    # Main website page
-├── CNAME         # Custom domain configuration
+├── CNAME         # Custom domain configuration for GitHub Pages
+├── logo.png      # Project logo used in README
 └── README.md     # Repository documentation
 ```
 
